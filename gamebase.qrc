@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/s">
+        <file alias="1">source/icon.png</file>
+        <file alias="2">source/welcome.png</file>
+        <file alias="3">source/main.png</file>
+        <file alias="4">source/author.png</file>
+        <file alias="5">source/game.png</file>
+        <file alias="6">source/ranklist.png</file>
+    </qresource>
+</RCC>
